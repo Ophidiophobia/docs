@@ -1,0 +1,10 @@
+[book]
+authors = ["Ophidiophobia"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"
+git-repository-url = "https://github.com/Ophidiophobia/docs"
